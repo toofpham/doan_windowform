@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ckc\\nam 2 hk2\\c#\\doan\\quanlyquancafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2731E31-D6D4-4F9B-9C60-353037A1BCC3}|QCF_DAO\\QCF_DAO.csproj|D:\\ckc\\nam 2 hk2\\c#\\doan\\quanlyquancafe\\qcf_dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2731E31-D6D4-4F9B-9C60-353037A1BCC3}|QCF_DAO\\QCF_DAO.csproj|solutionrelative:qcf_dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78AEC4B-FB72-45DF-A715-6D764A52A595}|QCF_GUI\\QCF_GUI.csproj|d:\\ckc\\nam 2 hk2\\c#\\doan\\quanlyquancafe\\qcf_gui\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C78AEC4B-FB72-45DF-A715-6D764A52A595}|QCF_GUI\\QCF_GUI.csproj|solutionrelative:qcf_gui\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78AEC4B-FB72-45DF-A715-6D764A52A595}|QCF_GUI\\QCF_GUI.csproj|D:\\ckc\\nam 2 hk2\\c#\\doan\\quanlyquancafe\\qcf_gui\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78AEC4B-FB72-45DF-A715-6D764A52A595}|QCF_GUI\\QCF_GUI.csproj|solutionrelative:qcf_gui\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78AEC4B-FB72-45DF-A715-6D764A52A595}|QCF_GUI\\QCF_GUI.csproj|d:\\ckc\\nam 2 hk2\\c#\\doan\\quanlyquancafe\\qcf_gui\\nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C78AEC4B-FB72-45DF-A715-6D764A52A595}|QCF_GUI\\QCF_GUI.csproj|solutionrelative:qcf_gui\\nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78AEC4B-FB72-45DF-A715-6D764A52A595}|QCF_GUI\\QCF_GUI.csproj|D:\\ckc\\nam 2 hk2\\c#\\doan\\quanlyquancafe\\qcf_gui\\trangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78AEC4B-FB72-45DF-A715-6D764A52A595}|QCF_GUI\\QCF_GUI.csproj|solutionrelative:qcf_gui\\trangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 202,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "nguyenlieu.cs [Design]",
+              "DocumentMoniker": "D:\\ckc\\nam 2 hk2\\c#\\doan\\quanlyquancafe\\QCF_GUI\\nguyenlieu.cs",
+              "RelativeDocumentMoniker": "QCF_GUI\\nguyenlieu.cs",
+              "ToolTip": "D:\\ckc\\nam 2 hk2\\c#\\doan\\quanlyquancafe\\QCF_GUI\\nguyenlieu.cs [Design]",
+              "RelativeToolTip": "QCF_GUI\\nguyenlieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:28:29.634Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "trangchu.Designer.cs",
+              "DocumentMoniker": "D:\\ckc\\nam 2 hk2\\c#\\doan\\quanlyquancafe\\QCF_GUI\\trangchu.Designer.cs",
+              "RelativeDocumentMoniker": "QCF_GUI\\trangchu.Designer.cs",
+              "ToolTip": "D:\\ckc\\nam 2 hk2\\c#\\doan\\quanlyquancafe\\QCF_GUI\\trangchu.Designer.cs",
+              "RelativeToolTip": "QCF_GUI\\trangchu.Designer.cs",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAxwKABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T06:35:47.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\ckc\\nam 2 hk2\\c#\\doan\\quanlyquancafe\\QCF_DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QCF_DAO\\DataProvider.cs",
+              "ToolTip": "D:\\ckc\\nam 2 hk2\\c#\\doan\\quanlyquancafe\\QCF_DAO\\DataProvider.cs",
+              "RelativeToolTip": "QCF_DAO\\DataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T06:00:42.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "trangchu.cs [Design]",
+              "DocumentMoniker": "D:\\ckc\\nam 2 hk2\\c#\\doan\\quanlyquancafe\\QCF_GUI\\trangchu.cs",
+              "RelativeDocumentMoniker": "QCF_GUI\\trangchu.cs",
+              "ToolTip": "D:\\ckc\\nam 2 hk2\\c#\\doan\\quanlyquancafe\\QCF_GUI\\trangchu.cs [Design]",
+              "RelativeToolTip": "QCF_GUI\\trangchu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:17:59.726Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "trangchu.cs",
+              "DocumentMoniker": "D:\\ckc\\nam 2 hk2\\c#\\doan\\quanlyquancafe\\QCF_GUI\\trangchu.cs",
+              "RelativeDocumentMoniker": "QCF_GUI\\trangchu.cs",
+              "ToolTip": "D:\\ckc\\nam 2 hk2\\c#\\doan\\quanlyquancafe\\QCF_GUI\\trangchu.cs",
+              "RelativeToolTip": "QCF_GUI\\trangchu.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAwwI0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T04:20:11.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 48,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
