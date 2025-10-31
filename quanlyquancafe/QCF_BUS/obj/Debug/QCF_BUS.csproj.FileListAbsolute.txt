@@ -20,3 +20,14 @@ D:\ckc\nam 2 hk2\c#\doan\quanlyquancafe\QCF_BUS\obj\Debug\QCF_BUS.csproj.CoreCom
 D:\ckc\nam 2 hk2\c#\doan\quanlyquancafe\QCF_BUS\obj\Debug\QCF_BUS.csproj.Up2Date
 D:\ckc\nam 2 hk2\c#\doan\quanlyquancafe\QCF_BUS\obj\Debug\QCF_BUS.dll
 D:\ckc\nam 2 hk2\c#\doan\quanlyquancafe\QCF_BUS\obj\Debug\QCF_BUS.pdb
+D:\ckc\nam2hk2\c#\doan\doanwindowform\quanlyquancafe\QCF_BUS\bin\Debug\QCF_BUS.dll
+D:\ckc\nam2hk2\c#\doan\doanwindowform\quanlyquancafe\QCF_BUS\bin\Debug\QCF_BUS.pdb
+D:\ckc\nam2hk2\c#\doan\doanwindowform\quanlyquancafe\QCF_BUS\bin\Debug\QCF_DAO.dll
+D:\ckc\nam2hk2\c#\doan\doanwindowform\quanlyquancafe\QCF_BUS\bin\Debug\QCF_DTO.dll
+D:\ckc\nam2hk2\c#\doan\doanwindowform\quanlyquancafe\QCF_BUS\bin\Debug\QCF_DAO.pdb
+D:\ckc\nam2hk2\c#\doan\doanwindowform\quanlyquancafe\QCF_BUS\bin\Debug\QCF_DTO.pdb
+D:\ckc\nam2hk2\c#\doan\doanwindowform\quanlyquancafe\QCF_BUS\obj\Debug\QCF_BUS.csproj.AssemblyReference.cache
+D:\ckc\nam2hk2\c#\doan\doanwindowform\quanlyquancafe\QCF_BUS\obj\Debug\QCF_BUS.csproj.CoreCompileInputs.cache
+D:\ckc\nam2hk2\c#\doan\doanwindowform\quanlyquancafe\QCF_BUS\obj\Debug\QCF_BUS.csproj.Up2Date
+D:\ckc\nam2hk2\c#\doan\doanwindowform\quanlyquancafe\QCF_BUS\obj\Debug\QCF_BUS.dll
+D:\ckc\nam2hk2\c#\doan\doanwindowform\quanlyquancafe\QCF_BUS\obj\Debug\QCF_BUS.pdb

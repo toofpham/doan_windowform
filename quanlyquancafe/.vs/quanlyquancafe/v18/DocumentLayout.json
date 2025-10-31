@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\ckc\\nam2hk2\\c#\\doan\\doanwindowform\\quanlyquancafe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2731E31-D6D4-4F9B-9C60-353037A1BCC3}|QCF_DAO\\QCF_DAO.csproj|d:\\ckc\\nam2hk2\\c#\\doan\\doanwindowform\\quanlyquancafe\\qcf_dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2731E31-D6D4-4F9B-9C60-353037A1BCC3}|QCF_DAO\\QCF_DAO.csproj|d:\\ckc\\nam2hk2\\c#\\doan\\doanwindowform\\quanlyquancafe\\qcf_dao\\taikhoan_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2731E31-D6D4-4F9B-9C60-353037A1BCC3}|QCF_DAO\\QCF_DAO.csproj|solutionrelative:qcf_dao\\taikhoan_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2731E31-D6D4-4F9B-9C60-353037A1BCC3}|QCF_DAO\\QCF_DAO.csproj|D:\\ckc\\nam2hk2\\c#\\doan\\doanwindowform\\quanlyquancafe\\qcf_dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2731E31-D6D4-4F9B-9C60-353037A1BCC3}|QCF_DAO\\QCF_DAO.csproj|solutionrelative:qcf_dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -33,8 +37,29 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "taikhoan_DAO.cs",
+              "DocumentMoniker": "D:\\ckc\\nam2hk2\\c#\\doan\\doanwindowform\\quanlyquancafe\\QCF_DAO\\taikhoan_DAO.cs",
+              "RelativeDocumentMoniker": "QCF_DAO\\taikhoan_DAO.cs",
+              "ToolTip": "D:\\ckc\\nam2hk2\\c#\\doan\\doanwindowform\\quanlyquancafe\\QCF_DAO\\taikhoan_DAO.cs",
+              "RelativeToolTip": "QCF_DAO\\taikhoan_DAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:49:36.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "nguyenlieu.cs [Design]",
               "DocumentMoniker": "D:\\ckc\\nam2hk2\\c#\\doan\\doanwindowform\\quanlyquancafe\\QCF_GUI\\nguyenlieu.cs",
               "RelativeDocumentMoniker": "QCF_GUI\\nguyenlieu.cs",
@@ -45,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "trangchu.Designer.cs",
               "DocumentMoniker": "D:\\ckc\\nam2hk2\\c#\\doan\\doanwindowform\\quanlyquancafe\\QCF_GUI\\trangchu.Designer.cs",
               "RelativeDocumentMoniker": "QCF_GUI\\trangchu.Designer.cs",
@@ -57,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DataProvider.cs",
               "DocumentMoniker": "D:\\ckc\\nam2hk2\\c#\\doan\\doanwindowform\\quanlyquancafe\\QCF_DAO\\DataProvider.cs",
               "RelativeDocumentMoniker": "QCF_DAO\\DataProvider.cs",
@@ -65,12 +90,11 @@
               "RelativeToolTip": "QCF_DAO\\DataProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T06:00:42.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T06:00:42.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "trangchu.cs [Design]",
               "DocumentMoniker": "D:\\ckc\\nam2hk2\\c#\\doan\\doanwindowform\\quanlyquancafe\\QCF_GUI\\trangchu.cs",
               "RelativeDocumentMoniker": "QCF_GUI\\trangchu.cs",
@@ -81,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "trangchu.cs",
               "DocumentMoniker": "D:\\ckc\\nam2hk2\\c#\\doan\\doanwindowform\\quanlyquancafe\\QCF_GUI\\trangchu.cs",
               "RelativeDocumentMoniker": "QCF_GUI\\trangchu.cs",
